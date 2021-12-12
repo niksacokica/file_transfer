@@ -55,6 +55,9 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListViewScroll.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="transfer_form.cs">
       <SubType>Form</SubType>
     </Compile>
